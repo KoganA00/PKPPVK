@@ -386,7 +386,7 @@ def statistic_group():
 
 
 path=get_path()
-at='3325c432255b09284443d57c2661b5a107363a9dda1ad1b4cbe6c4ba337b8b939db283679da4c480b2814'
+at= # TOKEN #
 user_id=None
 group_id=None
 
